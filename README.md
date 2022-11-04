@@ -26,9 +26,6 @@
 
 <a href="https://br.linkedin.com/in/bernardo-lancelot-ab84a523b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-  
-<img src= "[https://media.tenor.com/2T978La20dQAAAAC/cristiano-ronaldo-cristiano.gif](https://media.tenor.com/R3rlFeb8NPYAAAAC/cristiano-ronaldo-ronaldo-manchester.gif)" alt="processing" width="370" align="right">
   
 ## 📊 Language Stats
 
