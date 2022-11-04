@@ -22,13 +22,11 @@
 ## 📝 Social Media
 
 <div style="display: inline_block"><br>
-  <a href="https://br.linkedin.com/in/bernardo-lancelot-ab84a523b">
-  <img align="center" alt="Bernardo-LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
-  </a>
-  <a href="https://pt-br.facebook.com/bernardo.lancelot.9/">
-    <img align="center" alt="Bernardo-facebook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg">
-  </a>
+  <a href="https://www.instagram.com/bernardolancelot/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+<a href="https://br.linkedin.com/in/bernardo-lancelot-ab84a523b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
   
 <img src= "https://media.tenor.com/2T978La20dQAAAAC/cristiano-ronaldo-cristiano.gif" alt="processing" width="370" align="right">
   
@@ -39,5 +37,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardolancelot&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardolancelot&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
+ 
+ ![Snake animation](https://github.com/bernardolancelot/bernardolancelot/blob/output/github-contribution-grid-snake.svg)
  
 ## 
